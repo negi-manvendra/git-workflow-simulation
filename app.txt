@@ -1,7 +1,4 @@
 HEAD
 Login Feature Code
 Dashboard Feature Code
-HEAD
-feature/dashboard
 API Feature Code
-feature/api
